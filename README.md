@@ -18,26 +18,19 @@
 
 ## Prerequisites
 
-- npm >=5.5.0
-- node >=9.3.0
+- Compilatore C/C++
 
 ## Install
 
-```sh
-npm install
-```
 
 ## Usage
 
 ```sh
-g++ main.cpp -o main
+Installare/clonare repository 
 ```
 
 ## Run tests
-
-```sh
-./main
-```
+Compilare e far partire il file eseguibile
 
 ## Author
 
