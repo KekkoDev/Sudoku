@@ -16,6 +16,8 @@
 
 ### 🏠 [Homepage](https://www.github.com/KekkoDev/)
 
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/KekkoDev/Sudoku/archive/refs/heads/main.zip)
+
 ## Prerequisites
 
 - Compilatore C/C++
