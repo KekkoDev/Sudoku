@@ -23,12 +23,14 @@
 - Compilatore C/C++, c++11
 
 ## Install
-
+```sh
+Installare/clonare repository 
+```
 
 ## Usage
 
 ```sh
-Installare/clonare repository 
+Compilare il file src/main.cpp 
 ```
 
 ## Run tests
