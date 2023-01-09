@@ -56,28 +56,3 @@ This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/mast
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
-
-
-
-
-.
-├── file
-│   ├── giocate
-│   │   ├── _perse.txt
-│   │   └── _vinte.txt
-│   ├── mappe
-│   │   ├── mappa1.csv
-│   │   ├── mappa2.csv
-│   │   └── mappa3.csv
-│   └── test
-│       └── _mappa_test.csv
-├── lib
-│   ├── errori.h
-│   ├── giocatore.h
-│   ├── grafica.h
-│   ├── logica.h
-│   ├── sudoku.h
-│   └── supporto_grafica.h
-└── src
-    ├── main
-    └── main.cpp
