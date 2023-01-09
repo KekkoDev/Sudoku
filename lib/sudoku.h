@@ -84,7 +84,7 @@ public:
                                 while (_orizzontaleInit(k, p, scacchiera) == 1 || _verticaleInit(k, p, scacchiera) == 1) //&& r != i && c != j
                                 {
                                     scacchiera[k][p] = genera_numero(9);
-                                    //  _sleep(1);
+                                     _sleep(1);
                                 }
                             }
                             else
