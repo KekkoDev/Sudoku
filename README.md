@@ -20,7 +20,7 @@
 
 ## Prerequisites
 
-- Compilatore C/C++
+- Compilatore C/C++, c++11
 
 ## Install
 
