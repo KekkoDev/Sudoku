@@ -5,7 +5,7 @@
  *  Autore    : Francesco Pio Nocerino
  *  @email    : kekko.dev16@gmail.com
  *  File      : sudoku.h
- *  Versione  : 1.0
+ *  Versione  : 2.0
  *  Data      : 02/01/2023
  *  Descr     :
  * ? Libreria gioco Sudoku
