@@ -3,7 +3,7 @@
  *  Autore    : Francesco Pio Nocerino
  *  @email    : kekko.dev16@gmail.com
  *  File      : main.cpp
- *  Versione  : 1.0
+ *  Versione  : 2.0
  *  Data      : 02/01/2023
  *  Descr     :
  * ? Gioco del Sudoku
